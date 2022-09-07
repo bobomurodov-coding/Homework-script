@@ -1,0 +1,2 @@
+# Homework-script
+Bobomurodov script 
